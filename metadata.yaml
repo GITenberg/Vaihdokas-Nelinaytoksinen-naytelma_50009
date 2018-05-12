@@ -1,4 +1,8 @@
 _repo: Vaihdokas-Nelinaytoksinen-naytelma_50009
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anttila, Selma
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43058
     wikipedia: http://fi.wikipedia.org/wiki/Selma_Anttila
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50009#Vaihdokas-Nelinaytoksinen-naytelma
 gutenberg_issued: '2015-09-19'
 gutenberg_type: Text
 identifiers:
